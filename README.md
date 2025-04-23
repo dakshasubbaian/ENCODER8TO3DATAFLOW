@@ -67,7 +67,8 @@ RegisterNumber:212223230036
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 ![434169509-17a5fcc6-d177-4a1e-8462-53b4a7af7c21](https://github.com/user-attachments/assets/a54e1795-0284-4dde-8211-a89c231ae787)
 
-**RESULTS**
+**RESULTS:**
+
 Thus the Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables is verified.
 
 
